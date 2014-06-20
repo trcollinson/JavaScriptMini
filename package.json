@@ -1,0 +1,22 @@
+{
+  "name": "JavaScriptMini",
+  "version": "0.0.0",
+  "description": "A mini skeleton for JavaScript TDD training.",
+  "main": "bowling.js",
+  "scripts": {
+    "test": "jasmine-node spec/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/trcollinson/AgileRootsNode.git"
+  },
+  "author": "Scott Peterson & Tim Collinson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trcollinson/AgileRootsNode/issues"
+  },
+  "homepage": "https://github.com/trcollinson/AgileRootsNode",
+  "devDependencies": {
+    "jasmine-node": "^1.14.3"
+  }
+}
